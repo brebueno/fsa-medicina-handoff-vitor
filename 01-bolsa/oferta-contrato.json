@@ -1,0 +1,31 @@
+{
+  "disponivel": true,
+  "nome": "Medicina 2026.2 · 2º Processo Seletivo (Edital nº 002/2026)",
+  "valorMensalidade": 12500,
+  "taxaDetalhe": "R$ 300,00 (prova presencial) ou R$ 100,00 (nota do ENEM)",
+  "beneficios": [
+    {
+      "rotulo": "Bolsa de 20%",
+      "valor": "R$ 10.000,00 por mês, de R$ 12.500,00"
+    },
+    {
+      "rotulo": "Mais 5% pagando em dia",
+      "valor": "R$ 9.500,00 por mês, pagando até o 5º dia útil"
+    }
+  ],
+  "bolsa": {
+    "percentual": 20,
+    "pontualidadePercentual": 5,
+    "pontualidadeTexto": "até o 5º dia útil",
+    "valorCheio": 12500,
+    "valorComBolsa": 10000,
+    "valorPontual": 9500,
+    "descontoTotal": 24,
+    "economiaMensal": 3000,
+    "economiaSemestre": 15000
+  },
+  "condicoes": "Semestralidade de R$ 75.000,00 em 6 parcelas de R$ 12.500,00. Sobre a mensalidade incide a bolsa de 20% e, pagando até o 5º dia útil, mais 5%: 24% de desconto no total. A primeira parcela é paga sem desconto e sua quitação condiciona a matrícula. A taxa de inscrição não é restituída.",
+  "inscricoesAbertas": true,
+  "inscricoesInicio": "2026-09-29T03:00:00.000Z",
+  "inscricoesFim": "2026-10-24T02:59:59.000Z"
+}
